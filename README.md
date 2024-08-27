@@ -13,7 +13,7 @@ Atualmente estou estudando e adquirindo conhecimentos utilizando:
 
 ### Connect with me:
 
-  <a href="https://www.linkedin.com/in/alessandro-schuquel-pedroso-2b9109214/" target="_blank"><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin" alt="linkedin-logo"/></a>    <a href="https://www.instagram.com/alessandrospedroso" target="_blank"><img height="22" width="22" src="https://cdn.simpleicons.org/instagram" alt="instagram-logo"/></a>
+  <a href="https://www.linkedin.com/in/alessandro-schuquel-pedroso-2b9109214/" target="_blank"><img height="22" width="22" src="https://cdn.simpleicons.org/linkedin" alt="linkedin-logo"/></a>
   
 ![Alessandro stats](https://github-readme-stats.vercel.app/api?username=AlessandroPedroso&hide=contribs,prs)
 
