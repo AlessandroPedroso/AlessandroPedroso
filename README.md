@@ -1,6 +1,6 @@
 # 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-Sou **Alessandro Pedroso** Graduando em Engenharia de software e Desenvolvedor Full-Stack com experiência em projetos **front-end** e **back-end**, apaixonado por tecnologia e por criar soluções que agregam valor real aos usuários.
+Sou **Alessandro Pedroso** graduando em Engenharia de software e Desenvolvedor Full-Stack com experiência em projetos **front-end** e **back-end**, apaixonado por tecnologia e por criar soluções que agregam valor real aos usuários.
 
 Atualmente, atuo na **Lefisc - Legislação Fiscal**, contribuindo com o desenvolvimento de sistemas modernos e robustos.
 
@@ -39,7 +39,7 @@ Atualmente, atuo na **Lefisc - Legislação Fiscal**, contribuindo com o desenvo
 
 Possuo experiência prática com projetos em **Vue.js 3 com TypeScript** (Composition API e Option API), **React**, **React Native com Expo**, **Next.js**, além de garantir interfaces modernas, responsivas e com ótima performance.
 
-No back-end, foco na construção de **APIs REST**, integrações com bancos relacionais e não relacionais, e também mantenho sistemas legados escritos em **C#** e **VB**.
+No back-end, foco na construção de **APIs REST**, integrações com bancos relacionais e não relacionais.
 
 Participo ativamente de **reuniões estratégicas**, ajudando a definir tecnologias e processos que superem as expectativas dos clientes e tragam soluções eficientes para os negócios.
 
