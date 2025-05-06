@@ -1,12 +1,12 @@
-# 👋 Olá, seja bem-vindo(a) ao meu perfil!
+# 👋 Hello, welcome to my profile!
 
-Sou **Alessandro Pedroso** graduando em Engenharia de software e Desenvolvedor Full-Stack com experiência em projetos **front-end** e **back-end**, apaixonado por tecnologia e por criar soluções que agregam valor real aos usuários.
+I'm **Alessandro Pedroso**, a Software Engineering student and Full-Stack Developer with experience in **front-end** and **back-end** projects. I'm passionate about technology and creating solutions that deliver real value to users.
 
-Atualmente, atuo na **Lefisc - Legislação Fiscal**, contribuindo com o desenvolvimento de sistemas modernos e robustos.
+Currently, I work at **Lefisc - Tax Legislation**, contributing to the development of modern and robust systems.
 
 ---
 
-### 🚀 Tecnologias e Ferramentas que utilizo:
+### 🚀 Technologies and Tools I Use:
 
 #### 🔧 Back-end:
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
@@ -35,29 +35,29 @@ Atualmente, atuo na **Lefisc - Legislação Fiscal**, contribuindo com o desenvo
 
 ---
 
-### 💼 Sobre minha atuação
+### 💼 About My Work
 
-Possuo experiência prática com projetos em **Vue.js 3 com TypeScript** (Composition API e Option API), **React**, **React Native com Expo**, **Next.js**, além de garantir interfaces modernas, responsivas e com ótima performance.
+I have hands-on experience with projects using **Vue.js 3 with TypeScript** (Composition API and Option API), **React**, **React Native with Expo**, and **Next.js**, ensuring modern, responsive, and high-performance interfaces.
 
-No back-end, foco na construção de **APIs REST**, integrações com bancos relacionais e não relacionais.
+On the back-end, I focus on building **RESTful APIs** and integrating both relational and non-relational databases.
 
-Participo ativamente de **reuniões estratégicas**, ajudando a definir tecnologias e processos que superem as expectativas dos clientes e tragam soluções eficientes para os negócios.
-
----
-
-### 🌱 Em constante evolução
-
-Além da minha atuação profissional, dedico parte do meu tempo livre a **projetos pessoais** e ao estudo de **novas tecnologias**.
+I actively participate in **strategic meetings**, helping define technologies and processes that exceed client expectations and deliver efficient business solutions.
 
 ---
 
-### 📫 Contato
+### 🌱 Always Evolving
+
+In addition to my professional work, I dedicate part of my free time to **personal projects** and studying **new technologies**.
+
+---
+
+### 📫 Contact
 
 - 📘 [LinkedIn](https://www.linkedin.com/in/alessandro-pedroso/)
 - 🧑‍💻 [GitHub](https://github.com/AlessandroPedroso)
-- 📧 E-mail: alessandropedrosoti@gmail.com
-- 📱 Celular: (51) 99815-2732
+- 📧 Email: alessandropedrosoti@gmail.com
+- 📱 Mobile: +55 (51) 99815-2732
 
 ---
 
-**Estou sempre aberto a novas oportunidades e colaborações!**
+**I'm always open to new opportunities and collaborations!**
