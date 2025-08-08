@@ -2,7 +2,7 @@
 
 Sou **Alessandro Pedroso**, estudante de Engenharia de Software e Desenvolvedor Full-Stack com experiência em projetos **front-end** e **back-end**. Sou apaixonado por tecnologia e por criar soluções que entregam valor real aos usuários.
 
-Atualmente, trabalho na **Lefisc - Legislação Tributária**, contribuindo para o desenvolvimento de sistemas modernos e robustos.
+Atualmente, trabalho na **Lefisc - Legislação Fiscal**, contribuindo para o desenvolvimento de sistemas modernos e robustos.
 
 ---
 
