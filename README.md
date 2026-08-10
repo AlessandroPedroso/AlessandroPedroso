@@ -1,8 +1,8 @@
 # 👋 Olá, seja bem-vindo(a) ao meu perfil!
 
-Sou **Alessandro Pedroso**, estudante de Análise e Desenvolvimento de Sistemas e Desenvolvedor Full-Stack com experiência em projetos **front-end** e **back-end**. Sou apaixonado por tecnologia e por criar soluções que entregam valor real aos usuários.
+Sou **Alessandro Pedroso**, estudante de Ciência da Computação e Desenvolvedor Full-Stack com experiência em projetos **front-end**, **back-end** e "mobile" utilizando react native e expo. Sou apaixonado por tecnologia e por criar soluções que entregam valor real aos usuários.
 
-Atualmente, trabalho na **Lefisc - Legislação Fiscal**, contribuindo para o desenvolvimento de sistemas modernos e robustos.
+Atualmente, trabalho na **Lefisc - Legislação Fiscal**, contribuindo para o desenvolvimento de sistemas.
 
 ---
 
